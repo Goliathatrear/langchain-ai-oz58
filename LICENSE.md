@@ -1,4 +1,4 @@
-# 
+# Ultime LangChain extensions. Avec protection de la vie privée et synchronisation cloud — optimisé pour des performances et une efficacité maximales.
 
 
 
